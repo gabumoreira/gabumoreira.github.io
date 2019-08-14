@@ -12,6 +12,7 @@ keywords: [teste]
 
 summary: lorem ipsum dolor sit amet consectetur adipiscing elit sagittis habitasse ligula rutrum velit mi aenean eu tincidunt sed convallis conubia sapien risus pretium condimentum venenatis
 
+comments: true
 ---
 
 ![Alt Text](https://media.gsiphy.com/media/7kn27lnYSAE9O/giphy.gif)

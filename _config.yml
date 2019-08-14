@@ -28,6 +28,9 @@ twitter_username: GabuMoreira
 github_username:  GabuMoreira
 #linkedin_username:  joaogmrodrigues
 
+disqus: yes
+disqus-shortname: gabu-me
+
 markdown: kramdown
 theme: minima
 plugins:
