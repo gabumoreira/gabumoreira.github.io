@@ -7,11 +7,9 @@
     display: inline-block;
   }
 
-.pagination a {    
+.pagination a{
+    color: #186868;    
     &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }    &:hover {
         background-color: #f1f1f1;
         color: #333;
     }
@@ -20,3 +18,23 @@
 .pagination {
     text-align: center;
  }
+
+.post-bag {
+    margin-left: 0px;
+    li{
+        list-style-type: none;
+        padding: 10px;
+        a{
+            color: #579191;    
+            &:hover {
+                color: #333;
+            }
+        }
+    }
+}
+
+.cat-label{
+  background-color: #579191;
+  color: #fff;
+  border-radius: 3px;
+}

@@ -1,13 +1,13 @@
-title: Gabu.me!
-timezone: UTC
+title: Gabu.me
+timezone: UTC-3
+author: João Gabriel
+lang: pt_BR
 
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+built-by: gabu
+
+copyright:
+  name: João Gabriel
+  link: 'https://gabu.me'
 
 email: gabriel@gabu.me
 description: >-
@@ -16,17 +16,21 @@ description: >-
 
 baseurl: ""
 url: ""
+host: "gabu.me"
+
 paginate: 5
 paginate_path: "/blog/page:num/"
 
-#sass:
-#  sass_dir: _sass
+sass:
+  style: compressed
 
 twitter_username: GabuMoreira
 github_username:  GabuMoreira
+#linkedin_username:  joaogmrodrigues
 
 markdown: kramdown
 theme: minima
 plugins:
 - jekyll-feed
 - jekyll-paginate
+- jekyll-seo-tag

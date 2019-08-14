@@ -1,10 +1,20 @@
 ---
 layout: post
+
 title:  "Hello World"
 date:   2019-08-01 18:00:00 -0500
-categories: blog
+author: João Gabriel
+
+categories: [Tutorial, Java]
+tags: [dev, lorem ipsum]
 permalink: /blog/:title
+keywords: [teste]
+
+summary: lorem ipsum dolor sit amet consectetur adipiscing elit sagittis habitasse ligula rutrum velit mi aenean eu tincidunt sed convallis conubia sapien risus pretium condimentum venenatis
+
 ---
+
+![Alt Text](https://media.gsiphy.com/media/7kn27lnYSAE9O/giphy.gif)
 
 lorem ipsum dolor sit amet consectetur adipiscing elit sagittis habitasse ligula rutrum velit mi aenean eu tincidunt sed convallis conubia sapien risus pretium condimentum venenatis aptent maecenas dignissim vitae pellentesque quisque blandit dui posuere senectus montes placerat non aliquam bibendum
 
