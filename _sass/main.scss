@@ -198,10 +198,11 @@ table {
 .site-title {
   h1 { margin-bottom: 0; }
   font-size:26px;
-  font-weight: 300;
+  font-weight: bold;
   line-height: 54px;
   letter-spacing: -1px;
   margin-bottom: 0;
+  color: #186868;
   float: left;}
   .site-title, .site-title:visited {
     color: #424242; }
@@ -214,7 +215,7 @@ table {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #186868;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
