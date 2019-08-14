@@ -74,7 +74,7 @@ h1, h2, h4, h5, h6 {
 
 h3 {
   font-weight:bold;
-}
+  margin-bottom: 0px; }
 
 /**
  * Links
@@ -324,6 +324,7 @@ table {
   font-size: 28px; }
 
 .post-list {
+  a{ color: #186868; }
   margin-left: 0;
   list-style: none; }
   .post-list > li {
