@@ -69,8 +69,12 @@ li > ol {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   font-weight: 400; }
+
+h3 {
+  font-weight:bold;
+}
 
 /**
  * Links
@@ -192,12 +196,12 @@ table {
   position: relative; }
 
 .site-title {
-  font-size: 26px;
+  h1 { margin-bottom: 0; }
   font-weight: 300;
   line-height: 54px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left; }
+  float: left;}
   .site-title, .site-title:visited {
     color: #424242; }
 
