@@ -48,7 +48,7 @@ function changeTheme() {
 
     fillIcons('#186868');
     linksColor('#186868');
-    hColor('#186868');
+    hColor('#1d3354');
     textColor('#186868');
     extraColor('#828282');
     borderTop('#579191');
