@@ -222,6 +222,7 @@ table {
 .site-header {
   border-top: 5px solid #fafafa;
   border-bottom: 1px solid #e8e8e8;
+  box-shadow: 0.1px 0.1px 0.1px 0.1px, 0.5px 0.5px 0.5px 0.5px #eaeaea;
   min-height: 55.95px;
   position: relative; }
 
@@ -304,6 +305,7 @@ table {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
+  box-shadow: 0.1px 0.1px 0.1px 0.1px, 0.5px 0.5px 0.5px 0.5px #eaeaea;
   padding: 30px 0; }
 
 .footer-heading {
@@ -369,7 +371,11 @@ table {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 30px; }
+    padding: 5px;
+    margin-bottom: 30px;
+    border: 1px solid #eaeaea; 
+    border-radius: 3px;
+    box-shadow: 0.1px 0.1px 0.1px 0.1px, 0.5px 0.5px 0.5px 0.5px #eaeaea; }
 
 .post-meta {
   font-size: 14px;
