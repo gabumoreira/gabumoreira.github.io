@@ -1,14 +1,12 @@
-var light; 
+var light = false; 
 
 window.onload = function() {
-  if (localStorage.getItem("light") === null) {
-      window.localStorage.setItem('light', false);
+  light_s = localStorage.getItem("light")
+  if (light_s !== null) {
+    if (JSON.parse(light_s)){
+      changeTheme();
+    }
   }
-
-  light = JSON.parse(window.localStorage.getItem('light'));
-
-  changeTheme();
-  changeTheme();
 
   rmvClass('lazy-display', 'display-none', false);
 };
@@ -20,7 +18,7 @@ function changeTheme() {
     rmvClass('page-content', 'white-theme-bg', false);
     rmvClass('site-footer', 'white-theme-bg', false);
     rmvClass('site-nav', 'white-theme-bg', false);
-    rmvClass('site-nav', 'white-theme-bg', false);
+    rmvClass('post-meta', 'white-theme-cl', false);
 
     fillIcons('#fafafa');
     linksColor('#fafafa');
@@ -33,15 +31,18 @@ function changeTheme() {
     addClass('page-content', 'dark-theme-bg', false);
     addClass('site-footer', 'dark-theme-bg', false);
     addClass('site-nav', 'dark-theme-bg', false);
+    addClass('post-meta', 'dark-theme-cl', false);
+
 
 		light = false;
-    window.localStorage.setItem('light', false);
+    window.localStorage.clear();
 
 	} else {
     rmvClass('site-header', 'dark-theme-bg', false);
     rmvClass('page-content', 'dark-theme-bg', false);
     rmvClass('site-footer', 'dark-theme-bg', false);
     rmvClass('site-nav', 'dark-theme-bg', false);
+    rmvClass('post-meta', 'dark-theme-cl', false);
 
     fillIcons('#186868');
     linksColor('#186868');
@@ -54,6 +55,7 @@ function changeTheme() {
     addClass('page-content', 'white-theme-bg', false);
     addClass('site-footer', 'white-theme-bg', false);
     addClass('site-nav', 'white-theme-bg', false);
+    addClass('post-meta', 'white-theme-cl', false);
 
 		light = true;
     window.localStorage.setItem('light', true);

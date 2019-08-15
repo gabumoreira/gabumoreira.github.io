@@ -3,12 +3,11 @@
     border: 1px solid #eee;
     margin-left: -2px;
     margin-right: -2px;
-    background-color: #ffffff;
     display: inline-block;
   }
 
 .pagination a{
-    color: #186868;    
+    color: #fafafa;    
     &:hover {
         background-color: #f1f1f1;
         color: #333;
@@ -27,22 +26,22 @@
 
 .dark-theme-bg{
   background-color: #186868;
-  /*transition: 0.75s;*/
+  transition: 0.75s;
 }
 
 .white-theme-bg{
   background-color: #fafafa;
-  /*transition: 0.75s;/
+  transition: 0.75s;
 }
 
 .dark-theme-cl{
-  color: #186868;
-  /*transition: 0.75s;/
+  color: #eee;
+  transition: 0.75s;
 }
 
 .white-theme-cl{
-  color: #fafafa;
-  /*transition: 0.75s;*/
+  color: #828282;
+  transition: 0.75s;
 }
 
 .display-none{
