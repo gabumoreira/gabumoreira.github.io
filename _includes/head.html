@@ -10,6 +10,11 @@
   {%- seo -%}
   {%if page.tags %}
     <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+    <meta property="article:tag" content="{{ page.tags | join: ', ' | escape }}">
+  {%endif %}
+  
+  {%if page.categories %}
+    <meta property="article:section" content="{{ page.categories.first }}">
   {%endif %}
 
   <link rel="stylesheet" href='{{ "/assets/css/styles.css"  | relative_url }}'>
