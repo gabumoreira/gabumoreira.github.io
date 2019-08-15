@@ -17,7 +17,7 @@ description: >-
 baseurl: ""
 url: "https://gabu.me"
 host: "gabu.me"
-image: "icon.png"
+image: "/assets/img/logo.png"
 
 paginate: 5
 paginate_path: "/blog/page:num/"
