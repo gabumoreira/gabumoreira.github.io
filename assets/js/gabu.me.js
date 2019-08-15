@@ -1,6 +1,6 @@
 var light = false; 
 
-window.onload = function() {
+$(function(){
   light_s = localStorage.getItem("light")
   if (light_s !== null) {
     if (JSON.parse(light_s)){
@@ -9,7 +9,7 @@ window.onload = function() {
   }
 
   rmvClass('lazy-display', 'display-none', false);
-};
+});
 
 function changeTheme() {
 	console.log("changeTheme:");
@@ -19,6 +19,7 @@ function changeTheme() {
     rmvClass('site-footer', 'white-theme-bg', false);
     rmvClass('site-nav', 'white-theme-bg', false);
     rmvClass('post-meta', 'white-theme-cl', false);
+    rmvClass('summary', 'white-theme-cl', false);
 
     fillIcons('#fafafa');
     linksColor('#fafafa');
@@ -32,7 +33,7 @@ function changeTheme() {
     addClass('site-footer', 'dark-theme-bg', false);
     addClass('site-nav', 'dark-theme-bg', false);
     addClass('post-meta', 'dark-theme-cl', false);
-
+    addClass('summary', 'dark-theme-cl', false);
 
 		light = false;
     window.localStorage.clear();
@@ -43,6 +44,7 @@ function changeTheme() {
     rmvClass('site-footer', 'dark-theme-bg', false);
     rmvClass('site-nav', 'dark-theme-bg', false);
     rmvClass('post-meta', 'dark-theme-cl', false);
+    rmvClass('summary', 'dark-theme-cl', false);
 
     fillIcons('#186868');
     linksColor('#186868');
@@ -56,6 +58,7 @@ function changeTheme() {
     addClass('site-footer', 'white-theme-bg', false);
     addClass('site-nav', 'white-theme-bg', false);
     addClass('post-meta', 'white-theme-cl', false);
+    addClass('summary', 'white-theme-cl', false);
 
 		light = true;
     window.localStorage.setItem('light', true);

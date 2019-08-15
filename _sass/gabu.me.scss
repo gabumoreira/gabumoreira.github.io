@@ -34,16 +34,21 @@
   transition: 0.75s;
 }
 
-.dark-theme-cl{
+.dark-theme-cl, .dark-theme-cl p{
   color: #eee;
   transition: 0.75s;
 }
 
-.white-theme-cl{
+.white-theme-cl, .white-theme-cl p{
   color: #828282;
   transition: 0.75s;
 }
 
 .display-none{
   display: none;
+}
+
+#disqus_thread{
+  padding: 15px;
+  background-color: #828282;
 }
