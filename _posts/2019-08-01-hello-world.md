@@ -18,6 +18,7 @@ image: /assets/img/things_in_jar.jpg
 ---
 
 ![Alt Text](https://media.giphy.com/media/7kn27lnYSAE9O/giphy.gif){: .figure-center}
+
 *RUN*{: .caption-center}
 
 lorem ipsum dolor sit amet consectetur adipiscing elit sagittis habitasse ligula rutrum velit mi aenean eu tincidunt sed convallis conubia sapien risus pretium condimentum venenatis aptent maecenas dignissim vitae pellentesque quisque blandit dui posuere senectus montes placerat non aliquam bibendum
