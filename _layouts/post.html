@@ -18,6 +18,9 @@ layout: default
     {{ content }}
   </div>
 
+  {% include previous_next.html %}
+
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

@@ -10,8 +10,6 @@ tags: [dev, lorem ipsum]
 permalink: /blog/:title
 keywords: [teste]
 
-summary: lorem ipsum dolor sit amet consectetur adipiscing elit sagittis habitasse ligula rutrum velit mi aenean eu tincidunt sed convallis conubia sapien risus pretium condimentum venenatis
-
 description: lorem ipsum dolor sit amet consectetur adipiscing elit sagittis habitasse ligula rutrum velit mi aenean eu tincidunt sed convallis conubia sapien risus pretium condimentum venenatis
 
 comments: true
