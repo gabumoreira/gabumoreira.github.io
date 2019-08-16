@@ -22,7 +22,7 @@ image: /assets/img/things_in_jar.jpg
 
 Finalmente esse projeto saiu da gaveta, ao longo dos últimos anos tenho acumulado muito conteúdo e sempre tive como compromisso repassar o conhecimento a diante (aliás, o senso de comunidade na área de tecnologia é algo que me inspira bastante). O importante é dar o primeiro passo, né? Uma vez eu ouvi de um amigo a seguinte frase:
 
-> “Se uma pessoa te pergunta uma coisa responda, se duas te perguntam a mesma coisa documente e se 3 ou mais fazem a mesma pergunta está na hora de escrever um post.”
+> “Se uma pessoa te pergunta uma coisa explique, se duas te perguntam a mesma coisa documente e se 3 ou mais fazem a mesma pergunta está na hora de escrever um post.”
 
 Pra falar a verdade eu não lembro se foram exatamente essas palavras mas foi algo bem próximo disso. E porque escolhi essa mídia justo com a ascensão de youtubers e podcasters? 
 
