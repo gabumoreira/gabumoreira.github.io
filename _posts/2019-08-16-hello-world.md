@@ -24,7 +24,12 @@ Finalmente esse projeto saiu da gaveta, ao longo dos últimos anos tenho acumula
 
 > “Se uma pessoa te pergunta uma coisa responda, se duas te perguntam a mesma coisa documente e se 3 ou mais fazem a mesma pergunta está na hora de escrever um post.”
 
-Pra falar a verdade eu não lembro se foram exatamente essas palavras mas foi algo bem próximo disso. E porque escolhi essa mídia justo com a ascensão de youtubers e podcasters? Além de ser a forma que me sinto mais confortável hoje também é uma forma das pessoas acompanharem cada uma em seu próprio ritmo sem ter que voltar o vídeo várias vezes ou dar replay (talvez relendo o mesmo paragrafo algumas vezes mas isso é mais natural). Tenho várias ideias de conteúdo mas oque quero compartilhar principalmente são tutoriais, curiosidades, indicações de coisas legais e alguns reviews. 
+Pra falar a verdade eu não lembro se foram exatamente essas palavras mas foi algo bem próximo disso. E porque escolhi essa mídia justo com a ascensão de youtubers e podcasters? 
+
+![GIF da Nazaré pensando](https://media1.tenor.com/images/aa9c780acd020eaa5b11322b869f67fa/tenor.gif){: .figure-center}
+*<small>...</small>*{: .caption-center}
+
+Além de ser a forma que me sinto mais confortável hoje também é uma forma das pessoas acompanharem cada uma em seu próprio ritmo sem ter que voltar o vídeo várias vezes ou dar replay (talvez relendo o mesmo paragrafo algumas vezes mas isso é mais natural). Tenho várias ideias de conteúdo mas oque quero compartilhar principalmente são tutoriais, curiosidades, indicações de coisas legais e alguns reviews. 
 
 ![GIF de gato no computador](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif){: .figure-center}
 *<small>Meta de vida: Ser um gatinho de internet</small>*{: .caption-center}
