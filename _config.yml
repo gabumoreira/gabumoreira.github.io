@@ -25,6 +25,9 @@ paginate_path: "/blog/page:num/"
 sass:
   style: compressed
 
+analytics: UA-145817473-1
+tagmanager: GTM-5BZTL6W
+
 twitter_username: GabuMoreira
 github_username:  GabuMoreira
 #linkedin_username:  joaogmrodrigues
