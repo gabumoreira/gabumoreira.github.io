@@ -85,6 +85,11 @@ function extraColor(color){
     element[i].style.color = color;
   }
 
+  element = document.getElementsByClassName('p-404');
+  for (i = 0; i < element.length; i++) {
+    element[i].style.color = color;
+  }
+
 }
 
 function textColor(color){
