@@ -23,4 +23,6 @@ image: /assets/img/logo.jpg
     <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a> 
   <br><a href="mailto:{{site.email}}">{{site.email}}</a>
 </div>
-
+<br>
+<br>
+<br>
