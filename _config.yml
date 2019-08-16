@@ -17,7 +17,7 @@ description: >-
 baseurl: ""
 url: "https://gabu.me"
 host: "gabu.me"
-keywords: [tecnologia, gabu, gabriel, desemvolvimento, desenvolvedor, blog, java, python]
+keywords: [tecnologia, gabu, gabriel, desenvolvimento, desenvolvedor, blog, java, python]
 
 paginate: 5
 paginate_path: "/blog/page:num/"
