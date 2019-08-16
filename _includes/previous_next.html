@@ -1,3 +1,5 @@
+<br><br>
+
 <section id="more-work">
     {% if page.previous %}
         {% assign previous = page.previous %}
@@ -7,7 +9,7 @@
     <div class="float-left">
         <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="Previous Post: {{previous.title}}">
             <div>
-                <p>&laquo; {{previous.title}} </p>
+                <p class="dark-theme-cl">&laquo; {{previous.title}} </p>
             </div>
         </a>
     </div>
@@ -21,7 +23,7 @@
     <div class="float-right">
         <a class="equalize" href="{{site.baseurl}}{{next.url}}" title="next Post: {{next.title}}">
             <div>
-                <p> {{next.title}} &raquo;</p>
+                <p class="dark-theme-cl"> {{next.title}} &raquo;</p>
             </div>
         </a>
     </div>
