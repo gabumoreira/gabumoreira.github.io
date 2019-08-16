@@ -1,0 +1,11 @@
+<span>
+  <svg class="svg-inline" viewBox="0 0 512 512"><path fill="currentColor" d="M 256 8 C 119 8 8 119 8 256 s 111 248 248 248 s 248 -111 248 -248 S 393 8 256 8 Z m 0 448 c -110.5 0 -200 -89.5 -200 -200 S 145.5 56 256 56 s 200 89.5 200 200 s -89.5 200 -200 200 Z m 61.8 -104.4 l -84.9 -61.7 c -3.1 -2.3 -4.9 -5.9 -4.9 -9.7 V 116 c 0 -6.6 5.4 -12 12 -12 h 32 c 6.6 0 12 5.4 12 12 v 141.7 l 66.8 48.6 c 5.4 3.9 6.5 11.4 2.6 16.8 L 334.6 349 c -3.9 5.3 -11.4 6.5 -16.8 2.6 Z" /></svg> 
+  Reading time ~ 
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    1 min
+  {% else %}
+    {{ words | divided_by:180 }} mins
+  {% endif %}
+  
+</span>
