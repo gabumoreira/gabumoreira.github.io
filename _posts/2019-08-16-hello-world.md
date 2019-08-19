@@ -8,7 +8,7 @@ author: João Gabriel
 categories: [DEV, Ruby]
 tags: 		[DEV, Ruby, Blog, Jekyll]
 permalink: 	/blog/:title
-keywords: 	[DEV, Ruby, Blog, Jekyll, desenvolvimento, tecnologia, docker]
+keywords: 	[DEV, Ruby, Jekyll, docker]
 
 description: Finalmente esse projeto saiu da gaveta, ao longo dos ultimos anos tenho acumulado muito conteudo e sempre tive como compromisso repassar o conhecimento a diante...
 

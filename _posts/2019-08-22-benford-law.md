@@ -1,14 +1,14 @@
 ---
 layout: post
 
-title:  "Lei de Benford - O detector de fumaça matematico"
-date:   2019-08-22 14:00:00 -0300
+title:  "Lei de Benford - O detector de fumaça da matemática"
+date:   2019-08-18 14:00:00 -0300
 author: João Gabriel
 
-categories: [Matematica, Estatistica]
-tags: 		[Matematica, Estatistica, Python]
+categories: [Matemática, Estatística]
+tags: 		[Matemática, Estatística, Python]
 permalink: 	/blog/:title
-keywords: 	[Matematica, Estatistica, Benford, Lei de Benford, Benford Law, Python, Data, Analise de Dados]
+keywords: 	[Matemática, Estatística, Benford, Lei de Benford, Benford Law, Python, Data, Analise de Dados]
 
 description: ...
 
