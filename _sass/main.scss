@@ -9,7 +9,7 @@ dl, dd, ol, ul, figure {
 
 p {
   color: #fafafa;
-  font-size: 22px;}
+  font-size: 18px;}
 
 /**
  * Basic styling
@@ -208,6 +208,8 @@ table {
   border: 1px solid #e8e8e8; }
   table tr:nth-child(even) {
     background-color: #f7f7f7; }
+  table tr:nth-child(odd) {
+      background-color: #bbbbbb; }
   table th, table td {
     padding: 10px 15px; }
   table th {
