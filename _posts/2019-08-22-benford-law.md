@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Lei de Benford - O detector de fumaça da matemática"
-date:   2019-08-22 14:00:00 -0300
+date:   2019-08-18 14:00:00 -0300
 author: João Gabriel
 
 categories: [Matemática, Estatística]
@@ -34,9 +34,6 @@ Eu chutaria que as pessoas achavam o livro de logaritmos pouco interessante e co
 
 $$P (d) = \log_{10} \left(1 + \frac{1}{d} \right)$$
 
-[![GIF de um cara pensando com varias contas matematicas voando, cena do filme se beber não case](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif){: .figure-center}
-*<small>Ok, estou acompanhando...</small>*{: .caption-center}
-
 Com isso ele produziu o a seguinte tabela com a propabilidade de cada digito ser o primeiro de um número:
 
 | Digito | Proporção |
@@ -51,7 +48,10 @@ Com isso ele produziu o a seguinte tabela com a propabilidade de cada digito ser
 | **8**  | 5.1%      |
 | **9**  | 4.6%      |
 
-Ok, temos uma equação sobre o desgate de livro e uma tabela. Qual a importancia disso no meu dia-a-dia?
+[![GIF de um cara pensando com varias contas matematicas voando, cena do filme se beber não case](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif){: .figure-center}
+*<small>Ok, estou acompanhando...</small>*{: .caption-center}
+
+Até agora só temos uma equação sobre o desgate de livro e uma tabela... Mas qual a importância disso no meu dia-a-dia?
 
 ## Newcomb, Benford & Hill
 
