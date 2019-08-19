@@ -30,7 +30,7 @@ Também conhecida como a lei do primeiro digito, a lei de Benford diz que cada d
 
 Intuitivamente, se temos 9 algarismos (desculpa zero, você não pode participar dessa brincadeira) que podem ser primeiro digito de um número, as chances deveriam ser de 11,1% para cada um. Mas graças as observações de Simon Newcomb descobrimos que não é bem assim, certo dia ele estava observando os livros de logaritmo e percebeu um desgaste maior nas primeiras paginas dos livros de enquanto as ultimas pareciam mais conservadas.
 
-Eu chutaria que as pessoas achavam o livro de logaritmos pouco interessante e costumavam perder o desejo de saber o final e assim trocavam ele por alguma leitura mais agradavel como *Orgulho e Preconceito* de Jane Austen (1813), mas Newcomb discordaria da minha teoria. Com base nessas observações ele chegou a conclusão que dada uma lista de números retirados de um conjunto aleatório a probabilidade de um número começar com '1' era bem maior. Isso deu origem a seguinte fórmula:
+Eu chutaria que as pessoas achavam o livro de logaritmos pouco interessante e costumavam perder o desejo de saber o final e assim trocavam ele por alguma leitura mais agradavel como *Orgulho e Preconceito* (Jane Austen, 1813), mas Newcomb discordaria da minha teoria. Com base nessas observações ele chegou a conclusão que dada uma lista de números retirados de um conjunto aleatório a probabilidade de um número começar com '1' era bem maior. Isso deu origem a seguinte fórmula:
 
 $$P (d) = \log_{10} \left(1 + \frac{1}{d} \right)$$
 
