@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Lei de Benford - O detector de fumaça da matemática"
-date:   2019-08-18 14:00:00 -0300
+date:   2019-08-22 14:00:00 -0300
 author: João Gabriel
 
 categories: [Matemática, Estatística]
