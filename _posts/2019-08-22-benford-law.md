@@ -19,3 +19,4 @@ image: /assets/img/data_better_idea.jpg
 
 !["Data has a better idea" escrito em neon embaixo de uma janela com predios ao fundo.]({{page.image}}){: .figure-center}
 *<small>Os dados também sabem falar pelas entrelinhas.</small>*{: .caption-center}
+
