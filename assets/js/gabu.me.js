@@ -46,12 +46,12 @@ function changeTheme() {
     rmvClass('post-meta', 'dark-theme-cl', false);
     rmvClass('summary', 'dark-theme-cl', false);
 
-    fillIcons('#186868');
-    linksColor('#186868');
+    fillIcons('#0c4242');
+    linksColor('#0c4242');
     hColor('#1d3354');
-    textColor('#186868');
-    extraColor('#828282');
-    borderTop('#579191');
+    textColor('#0c4242');
+    extraColor('#0c4242');
+    borderTop('#186868');
 
     addClass('site-header', 'white-theme-bg', false);
     addClass('page-content', 'white-theme-bg', false);
