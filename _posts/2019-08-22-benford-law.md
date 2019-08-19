@@ -48,7 +48,7 @@ Com isso ele produziu o a seguinte tabela com a propabilidade de cada digito ser
 | **8**  | 5.1%      |
 | **9**  | 4.6%      |
 
-[![GIF de um cara pensando com varias contas matematicas voando, cena do filme se beber não case](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif){: .figure-center}
+![GIF de um cara pensando com varias contas matematicas voando, cena do filme se beber não case](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif){: .figure-center}
 *<small>Ok, estou acompanhando...</small>*{: .caption-center}
 
 Até agora só temos uma equação sobre o desgate de livro e uma tabela... Mas qual a importância disso no meu dia-a-dia?
