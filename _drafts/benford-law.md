@@ -30,7 +30,7 @@ Também conhecida como a lei do primeiro digito, a Lei de Benford diz que cada d
 
 Intuitivamente, se temos 9 algarismos (desculpa zero, você não pode participar dessa brincadeira) que podem ser primeiro digito de um número, as chances deveriam ser de 11,1% para cada um. Mas graças as observações de Simon Newcomb descobrimos que não é bem assim, certo dia ele estava observando os livros de logaritmo e percebeu um desgaste maior nas primeiras paginas dos livros de enquanto as ultimas pareciam mais conservadas.
 
-Eu chutaria que as pessoas achavam o livro de logaritmos pouco interessante e costumavam perder o desejo de saber o final e assim trocavam ele por alguma leitura mais agradavel como *Orgulho e Preconceito* (Jane Austen, 1813), mas Newcomb discordaria da minha teoria. Com base nessas observações ele chegou a conclusão que dada uma lista de números retirados de um conjunto aleatório a probabilidade de um número começar com '1' era bem maior. Isso deu origem a seguinte fórmula:
+Eu chutaria que as pessoas achavam os livros de logaritmos pouco interessante e perdiam a vontade de saber o final e assim trocavam ele por alguma leitura mais agradavel como *Orgulho e Preconceito* (Jane Austen, 1813), mas Newcomb discordaria da minha teoria. Com base nessas observações ele chegou a conclusão que dada uma lista de números retirados de um conjunto aleatório a probabilidade de um número começar com '1' era bem maior. Isso deu origem a seguinte fórmula:
 
 $$P (d) = \log_{10} \left(1 + \frac{1}{d} \right)$$
 
@@ -53,7 +53,7 @@ Com isso ele produziu o a seguinte tabela com a propabilidade de cada digito ser
 
 Até o momento só temos uma equação sobre o desgate de livro e uma tabela... Mas qual a importância disso no meu dia-a-dia?
 
-Por enquanto vimos apenas o trabalho de Newcomb, agora vou explicar como Benford entrou nessa história e a sua contribuição.
+Por enquanto vimos apenas o trabalho de Newcomb, agora vou explicar como Benford entrou nessa história, sua contribuição e porque isso é importante.
 
 ## Newcomb, Benford & Hill
 
@@ -63,6 +63,12 @@ Na verdade, algumas pessoas até chamam ela de Lei de Newcomb-Benford mas o nome
 
 ## A vida, o universo e tudo mais
 
+População de cidades, finanças, votos, livros registro, dobros, triplos, fibonacci...
+
 ## Onde há fumaça, há fogo
 
+Padrões e desvios...
+
 ## Fraudes economicas, contabeis e eleitorais
+
+FBI, Brasil e outras coisas mais
