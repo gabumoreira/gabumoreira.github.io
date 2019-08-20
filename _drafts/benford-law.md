@@ -2,15 +2,15 @@
 layout: post
 
 title:  "Lei de Benford - O detector de fumaça da matemática"
-date:   2019-08-22 14:00:00 -0300
+date:   2019-08-20 14:00:00 -0300
 author: João Gabriel
 
 categories: [Matemática, Estatística]
 tags: 		[Matemática, Estatística, Python]
 permalink: 	/blog/:title
-keywords: 	[Matemática, Estatística, Benford, Lei de Benford, Benford Law, Data, Análise de Dados, Python]
+keywords: 	[Matemática, Estatística, Benford, Newcomb, Benford Law, Data, Análise de Dados, Python]
 
-description: A Lei de Benford é a responsavel por reger a vida, o universo e tudo mais (igual o número 42).
+description: Também conhecida como a lei do primeiro digito, a Lei de Benford é utilizada para identificar comportamentos fradulentos, desvios financeiros e comportamentos atipicos em geral.
 
 comments: true
 
