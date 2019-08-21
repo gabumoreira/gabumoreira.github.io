@@ -10,7 +10,7 @@ tags: 		[Matemática, Estatística, Python]
 permalink: 	/blog/:title
 keywords: 	[Matemática, Estatística, Benford, Newcomb, Benford Law, Data, Análise de Dados, Python]
 
-description: Também conhecida como a lei do primeiro digito, a Lei de Benford é utilizada para identificar comportamentos fradulentos, desvios financeiros e comportamentos atipicos em geral.
+description: Também conhecida como a lei do primeiro digito, a Lei de Benford é utilizada para identificar comportamentos atipicos, fradulentos e até desvios financeiros.
 
 comments: true
 
@@ -18,7 +18,7 @@ image: /assets/img/data_better_idea.jpg
 ---
 
 !["Data has a better idea" escrito em neon embaixo de uma janela com predios ao fundo.]({{page.image}}){: .figure-center}
-*<small>Os dados também sabem falar pelas entrelinhas.</small>*{: .caption-center}
+*Os dados também sabem falar pelas entrelinhas.*{: .caption-center}
 
 A Lei de Benford é a responsavel por reger a vida, o universo e tudo mais (igual o número 42). Desde a sua descoberta em 1881 por Newcomb e sua redescoberta em 1938 por Benford, ela sempre causou estranheza para todos que tiveram contato, afinal ela mostra que existe uma ordem natural nas coisas (especialmente nas mais alatórias).
 
@@ -49,7 +49,7 @@ Com isso ele produziu o a seguinte tabela com a propabilidade de cada digito ser
 | **9**  | 4.6%      |
 
 ![GIF de um cara pensando com varias contas matemáticas voando, cena do filme se beber não case](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif){: .figure-center}
-*<small>Ok, estou acompanhando...</small>*{: .caption-center}
+*Ok, estou acompanhando...*{: .caption-center}
 
 Até o momento só temos uma equação sobre o desgate de livro e uma tabela... Mas qual a importância disso no meu dia-a-dia?
 
