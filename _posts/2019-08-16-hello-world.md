@@ -7,7 +7,7 @@ author: João Gabriel
 
 categories: [DEV, Ruby]
 tags: 		[DEV, Ruby, Blog, Jekyll]
-permalink: 	/blog/:title
+permalink: 	/blog/:title/
 keywords: 	[DEV, Ruby, Jekyll, docker]
 
 description: Hello World! Esse é o meu primeiro POST no novo site.

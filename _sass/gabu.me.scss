@@ -19,13 +19,22 @@
  }
 
 .cat-label{
-  background-color: #81acac;
-  color: #fff;
   border-radius: 3px;
 }
 
+.dark-cat-label{
+  background-color: #204742;
+  color: #fafafa;
+  transition: 0.75s;
+}
+.white-cat-label{
+  background-color: #eaeaea;
+  color: #204742;
+  transition: 0.75s;
+}
+
 .dark-theme-bg{
-  background-color: #0c4242;
+  background-color: #1c2a28;
   transition: 0.75s;
 }
 
@@ -50,7 +59,7 @@
 
 #disqus_thread{
   padding: 15px;
-  background-color: #0c4242;
+  background-color: #1c2a28;
   border-radius: 3px;
   border: 1px solid #fff;
 }
@@ -86,7 +95,7 @@
   @media screen and (max-width: 600px) {
     width: 80%;
   }
-  border: 5px solid #123;
+  border: 5px solid #204742;
 }
 
 .contact-div{

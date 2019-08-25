@@ -20,6 +20,7 @@ function changeTheme() {
     rmvClass('site-nav', 'white-theme-bg', false);
     rmvClass('post-meta', 'white-theme-cl', false);
     rmvClass('summary', 'white-theme-cl', false);
+    rmvClass('cat-label', 'white-cat-label', false);
 
     fillIcons('#fafafa');
     linksColor('#fafafa');
@@ -28,6 +29,7 @@ function changeTheme() {
     extraColor('#fafafa');
     borderTop('#fafafa');
 
+    addClass('cat-label', 'dark-cat-label', false);
     addClass('site-header', 'dark-theme-bg', false);
     addClass('page-content', 'dark-theme-bg', false);
     addClass('site-footer', 'dark-theme-bg', false);
@@ -45,14 +47,16 @@ function changeTheme() {
     rmvClass('site-nav', 'dark-theme-bg', false);
     rmvClass('post-meta', 'dark-theme-cl', false);
     rmvClass('summary', 'dark-theme-cl', false);
+    rmvClass('cat-label', 'dark-cat-label', false);
 
-    fillIcons('#0c4242');
-    linksColor('#0c4242');
-    hColor('#1d3354');
-    textColor('#0c4242');
-    extraColor('#0c4242');
-    borderTop('#186868');
+    fillIcons('#1c2a28');
+    linksColor('#204742');
+    hColor('#204742');
+    textColor('#204742');
+    extraColor('#204742');
+    borderTop('#204742');
 
+    addClass('cat-label', 'white-cat-label', false);
     addClass('site-header', 'white-theme-bg', false);
     addClass('page-content', 'white-theme-bg', false);
     addClass('site-footer', 'white-theme-bg', false);
@@ -66,6 +70,17 @@ function changeTheme() {
 	}
 
 }
+function catLabel(color, textColor){
+  var i;
+  var element;
+
+  element = document.getElementsByClassName('cat-label');
+  for (i = 0; i < element.length; i++) {
+    element[i].style.color = textColor;
+    element[i].style['background-color'] = color;
+  }
+}
+
 function borderTop(color){
   var i;
   var element;
@@ -124,7 +139,7 @@ function hColor(color){
   element = document.getElementsByTagName('h3');
   for (i = 0; i < element.length; i++) {
     element[i].style.color = color;
-  } 
+  }
   element = document.getElementsByTagName('h4');
   for (i = 0; i < element.length; i++) {
     element[i].style.color = color;

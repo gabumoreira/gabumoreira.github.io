@@ -7,7 +7,7 @@ author: João Gabriel
 
 categories: [Livro, DevOps]
 tags: 		[Livro, DevOps]
-permalink: 	/blog/:title
+permalink: 	/blog/:title/
 keywords: 	[Livro, Projeto Fenix, DevOps, TI, Gene Kim, Kevin Behr, George Spafford, Alta Books]
 
 description: .

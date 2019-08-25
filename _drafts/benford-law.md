@@ -7,7 +7,7 @@ author: João Gabriel
 
 categories: [Matemática, Estatística]
 tags: 		[Matemática, Estatística, Python]
-permalink: 	/blog/:title
+permalink: 	/blog/:title/
 keywords: 	[Matemática, Estatística, Benford, Newcomb, Benford Law, Data, Análise de Dados, Python]
 
 description: Também conhecida como a lei do primeiro digito, a Lei de Benford é utilizada para identificar comportamentos atipicos, fradulentos e até desvios financeiros.
