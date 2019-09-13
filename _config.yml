@@ -29,9 +29,10 @@ sass:
 analytics: UA-145817473-1
 tagmanager: GTM-5BZTL6W
 
-twitter_username: GabuMoreira
-github_username:  GabuMoreira
-linkedin:  joaogmrodrigues
+social_links:
+  twitter: GabuMoreira
+  github: GabuMoreira
+  linkedin: joaogmrodrigues
 
 disqus:
   shortname: gabu-me
