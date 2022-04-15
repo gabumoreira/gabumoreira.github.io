@@ -11,14 +11,12 @@ copyright:
 
 email: gabriel@gabu.me
 description: >-
-  Desenvolvedor de software, geek, escritor, menino HTML, 
-  carinha da TI, acumulador de series não assistidas, 
-  mãe dos drag... Você entendeu.
+  Diário de bordo sobre desenvolvimento, tecnologia e coisas ágeis.
 
 baseurl: ""
 url: "https://gabu.me"
 host: "gabu.me"
-keywords: [tecnologia, gabu, gabriel, desenvolvimento, blog]
+keywords: [tecnologia, gabu, devops, gabriel, desenvolvimento, blog]
 
 paginate: 5
 paginate_path: "/blog/page:num/"
