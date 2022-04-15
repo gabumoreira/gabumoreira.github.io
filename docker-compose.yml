@@ -1,10 +1,14 @@
-version: '3'
+version: '2'
 
 services:
   jekyll:
-    image: jekyll/jekyll:latest
+    image: jekyll/jekyll:3.8
     command: jekyll serve --watch --drafts --force_polling --verbose
     ports:
       - 4000:4000
     volumes:
       - .:/srv/jekyll
+
+networks:
+  backend:
+    driver: bridge
