@@ -39,6 +39,3 @@ gem "kramdown-parser-gfm"
 
 # Rake
 gem 'rake'
-gem 'foreman'
-gem 'thin'
-gem 'rack-contrib'
