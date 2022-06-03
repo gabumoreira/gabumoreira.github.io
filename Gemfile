@@ -38,5 +38,7 @@ gem 'jekyll-paginate'
 gem "kramdown-parser-gfm"
 
 # Rake
-gem "rake"
-ruby "3.0.3"
+gem 'rake'
+gem 'foreman'
+gem 'thin'
+gem 'rack-contrib'
