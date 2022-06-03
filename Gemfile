@@ -36,3 +36,7 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem 'jekyll-paginate'
 
 gem "kramdown-parser-gfm"
+
+# Rake
+gem "rake"
+ruby "2.4.2"
