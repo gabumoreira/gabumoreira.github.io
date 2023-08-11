@@ -27,10 +27,10 @@ image_boas_praticas: /assets/img/lgpd_boas_praticas.png
 
 No atual cenário digital, a proteção de dados pessoais tornou-se uma preocupação central para empresas e indivíduos. Com o advento da Lei Geral de Proteção de Dados (LGPD) no Brasil, as organizações estão sujeitas a sanções e penalidades significativas caso não estejam em conformidade com as disposições da lei. 
 
+Dentro do ecossistema da LGPD, diversos atores desempenham papéis essenciais. O **titular de dados** é a pessoa natural a quem se referem os dados pessoais que estão sendo tratados. O **controlador** é a pessoa ou organização responsável pelas decisões relativas ao tratamento desses dados. O **operador**, por sua vez, realiza o tratamento de dados em nome do controlador. O encarregado, também conhecido como Data Protection Officer (**DPO**), atua como o canal de comunicação entre o controlador, os titulares de dados e a Autoridade Nacional de Proteção de Dados (**ANPD**), órgão responsável por zelar, implementar e fiscalizar o cumprimento da LGPD.
+
 ![Ilustração de 6 pilares, cada pilar com um topico escrito: Escopo, Consentimento, Proteção de dados, Direito do titular, Notificação e Auditavel. Os pilares sustentam uma base onde tem 5 pessoas, cada pessoa tem um balão sobre a cabeça com as seguintes informações: Titular de dados, Controlador, Operador, Encarregado (DPO), Autoridade Nacional (ANPD).]({{page.image_pilar}}){: .figure-center}
 *.*{: .caption-center}
-
-Dentro do ecossistema da LGPD, diversos atores desempenham papéis essenciais. O **titular de dados** é a pessoa natural a quem se referem os dados pessoais que estão sendo tratados. O **controlador** é a pessoa ou organização responsável pelas decisões relativas ao tratamento desses dados. O **operador**, por sua vez, realiza o tratamento de dados em nome do controlador. O encarregado, também conhecido como Data Protection Officer (**DPO**), atua como o canal de comunicação entre o controlador, os titulares de dados e a Autoridade Nacional de Proteção de Dados (**ANPD**), órgão responsável por zelar, implementar e fiscalizar o cumprimento da LGPD.
 
 A LGPD se baseia em alguns pilares fundamentais. O primeiro deles é o escopo da necessidade do dado, o dado realmente vai ser utilizado ou é apenas um “dado comum” nos formulários na internet? Além disso, o consentimento é um elemento-chave, exigindo a autorização prévia dos titulares de dados para o tratamento de suas informações pessoais.
 
