@@ -10,7 +10,7 @@ tags: 		[LGPD, Desenvolvimento]
 permalink: 	/blog/:title/
 keywords: 	[LGPD, Sanções, Desenvolvimento de software, Violação de dados, Consentimento, Auditoria, Criptografia]
 
-description: A conformidade com a Lei Geral de Proteção de Dados (LGPD) é um assunto crítico para profissionais de TI e desenvolvedores de software. Neste post, exploraremos as implicações das sanções e penalidades por não conformidade com a LGPD, destacando sua relevância para os desenvolvedores. Aprenda como se manter em conformidade e proteger os dados pessoais em seu trabalho diário.
+description: A conformidade com a Lei Geral de Proteção de Dados (LGPD) é um assunto crítico para profissionais de TI e desenvolvedores de software. A importância do envolvimento dos desenvolvedores no contexto da LGPD é fundamental para garantir a proteção adequada dos dados pessoais. Eles desempenham um papel crucial no ciclo de vida dos dados, desde a coleta até a eliminação, passando pelo processamento, controle de acesso, modificação, reprodução, armazenamento, utilização, transmissão, compartilhamento e produção.
 
 comments: true
 
