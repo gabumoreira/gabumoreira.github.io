@@ -14,10 +14,10 @@ description: A conformidade com a Lei Geral de Proteção de Dados (LGPD) é um 
 
 comments: true
 
-image: /assets/img/lgps_server.jpg
-image_pilar: /assets/img/lgpd_pilares.jpg
-image_processamento: /assets/img/lgpd_tipos_processamento.jpg
-image_boas_praticas: /assets/img/lgpd_boas_praticas.jpg
+image: /assets/img/lgps_server.png
+image_pilar: /assets/img/lgpd_pilares.png
+image_processamento: /assets/img/lgpd_tipos_processamento.png
+image_boas_praticas: /assets/img/lgpd_boas_praticas.png
 ---
 
 ![Ilustração de um servidor cercado de guardas, com cameras de segurança e drones realizando a proteção.]({{page.image}}){: .figure-center}
