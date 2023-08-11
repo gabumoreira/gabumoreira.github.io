@@ -79,11 +79,3 @@ Portanto, o envolvimento dos desenvolvedores é crucial para assegurar que os si
 **Minimize a Coleta de Dados.** Avalie cuidadosamente os dados que são coletados pelo software e minimize a quantidade de informações pessoais armazenadas. Adote a abordagem de "coletar apenas o necessário" para reduzir os riscos associados ao tratamento de dados pessoais.
 
 **Mantenha-se Atualizado sobre a LGPD.** Esteja sempre atualizado em relação às diretrizes e regulamentações da LGPD. Acompanhe as orientações da Autoridade Nacional de Proteção de Dados (ANPD) para garantir que o software esteja em conformidade com as exigências legais.
-
-## Referencias
-
-Lei Geral de Proteção de Dados (Lei nº 13.709/2018), Governo Federal, agosto 2018.
-Guia de boas práticas, Lei Geral de Proteção de Dados (LGPD), Governo Federal, agosto 2020
-07 Pilares e a Importância da Adequação de Empresas à LGPD, JusBrasil, maio 2022.
-LGPD: Como começar a se adequar à Lei Geral de Proteção de Dados Pessoais, NDM Advogados, julho 2022.
-Agentes da LGPD: Autoridade Nacional de Proteção de Dados, NDM Advogados, abril 2022.
